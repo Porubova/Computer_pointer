@@ -64,7 +64,7 @@ cd src
 python main.py -fm ..\models\face-detection-adas-binary-0001\FP32-INT1\face-detection-adas-binary-0001 -hm ..\models\head-pose-estimation-adas-0001\FP32\head-pose-estimation-adas-0001 -lm ..\models\landmarks-regression-retail-0009\FP32\landmarks-regression-retail-0009 -gm ..\models\gaze-estimation-adas-0002\FP32\gaze-estimation-adas-0002 -i ..\bin\demo.mp4 -v yes
 ```
 
-## Documentati
+## Documentation
 ### Project structure
 ```sh
 .
@@ -151,7 +151,7 @@ I have tested my program using several precisions and obtained the following res
 
 ## Results
 The FP32 precision model from visual observation performs better however it was the slowest result.
-[![Video](https://youtu.be/1T39af62ZiE)
+![Video](hhttps://www.youtube.com/watch?v=1T39af62ZiE)
 ![Result](https://github.com/Porubova/Computer_pointer/blob/master/bin/Capture.PNG)
 
 
