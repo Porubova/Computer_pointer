@@ -12,7 +12,7 @@ four pre-trained models
 To coordinate the flow of the date from the input and through all four different models to the mouse controller, 
 the pipeline looks like this.
 
-![PipLine](https://github.com/[porubova]/[computer_pointer]/blob/[master]/bin/pipline.jpg?raw=true)
+![PipLine](https://github.com/Porubova/Computer_pointer/blob/master/bin/pipeline.png)
 
 ## Project Set-Up and Installation
 ### Prerequisites
