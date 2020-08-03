@@ -151,6 +151,7 @@ I have tested my program using several precisions and obtained the following res
 
 ## Results
 The FP32 precision model from visual observation performs better however it was the slowest result.
+[![Result](https://github.com/Porubova/Computer_pointer/blob/master/bin/output.mp4)
 
 ### Edge Cases
 The program performed reasonably well in different lighting however, it is not practical if there are several users
