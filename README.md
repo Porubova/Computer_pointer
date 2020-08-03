@@ -151,7 +151,7 @@ I have tested my program using several precisions and obtained the following res
 
 ## Results
 The FP32 precision model from visual observation performs better however it was the slowest result.
-![Video](https://youtu.be/1T39af62ZiE)
+[Video](https://youtu.be/1T39af62ZiE)
 ![Result](https://github.com/Porubova/Computer_pointer/blob/master/bin/Capture.PNG)
 
 
